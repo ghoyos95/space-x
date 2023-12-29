@@ -99,6 +99,8 @@ public class TrelloService {
         requestBodyMap.put("name", this.buildBugName());
         requestBodyMap.put("desc", trelloCard.getDescription());
         requestBodyMap.put("idLabels", Collections.singletonList(this.bugLabelId));
+        //se debe generar metodo para obtener id de usuario random y setearlo en el body para que se asignen los usuarios
+        //TODO requestBodyMap.put("USERS", getRandomUserList());
         return requestBodyMap;
     }
 
