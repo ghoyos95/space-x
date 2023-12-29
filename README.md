@@ -36,8 +36,7 @@ curl -X POST \
 ### Tablero de trello
 
 1. Acceder a https://trello.com/invite/b/t4QamTNO/ATTIddce5037b5d7c09842609eead36f8945B03DBCA6/tablerodemo
-
-1. comprobar que al ejecutar los comandos 
+2. comprobar que al ejecutar comandos correctamente se visualicen las tarjetas en el tablero
 
 
 
