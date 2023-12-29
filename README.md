@@ -30,7 +30,14 @@ curl -X POST \
 
   ![image](https://github.com/ghoyos95/space-x/assets/32983207/0463491f-d305-4019-9a17-fd4823096b65)
 
-En caso de haberse creado exitosamente la tarjeta recibirá el siguiente string como se muestra en imagen
+6. En caso de haberse creado exitosamente la tarjeta recibirá el siguiente string como se muestra en imagen
+7. Verificar en tablero de trello las tareas creadas
+
+### Tablero de trello
+
+1. Acceder a https://trello.com/invite/b/t4QamTNO/ATTIddce5037b5d7c09842609eead36f8945B03DBCA6/tablerodemo
+
+1. comprobar que al ejecutar los comandos 
 
 
 
